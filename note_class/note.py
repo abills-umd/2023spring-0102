@@ -1,3 +1,5 @@
+"""Note stuff"""
+
 POSITIONS = {
     "A" :  0,
     "A#":  1,
